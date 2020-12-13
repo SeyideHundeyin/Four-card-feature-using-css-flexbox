@@ -74,7 +74,8 @@ p{
 img{
     position: relative;
     top: 40px;
-    left: 200px;
+    display: block;
+    margin-left: auto;
     padding-bottom: 20px;
 }
 
@@ -85,25 +86,25 @@ img{
     top: 0;
 }
 h1{
-    font-size: 25px;
+    font-size: 5vw;
 }
 .desc{
         font-weight: 400;
-        width: 300px;
-        font-size: 15px;
+        width: 100%;
+        font-size: 3vw;
         text-align: center;
         margin: auto;
         padding-bottom: 50px;
     }
+
     img{
-position: relative;
-left: 130px;
+display: block;
+margin-left: auto;
     }
     .box{
         width: 400px;
     }
 }
-
 
 
 
